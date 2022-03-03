@@ -11,6 +11,11 @@ Required Dependecy
   </dependency>
 ```
 
+Required Annotation in Main class
+```
+@EnableOAuth2Sso
+```
+
 1. Create Developer's Facebook Account
 2. Create App
 3. Get App Id and Secrete key 
